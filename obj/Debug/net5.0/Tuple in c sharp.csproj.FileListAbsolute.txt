@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\bin\Debug\net5.0\Tuple in c sharp.exe
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\bin\Debug\net5.0\Tuple in c sharp.deps.json
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\bin\Debug\net5.0\Tuple in c sharp.runtimeconfig.json
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\bin\Debug\net5.0\Tuple in c sharp.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\bin\Debug\net5.0\Tuple in c sharp.dll
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\bin\Debug\net5.0\ref\Tuple in c sharp.dll
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\bin\Debug\net5.0\Tuple in c sharp.pdb
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.dll
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\ref\Tuple in c sharp.dll
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.pdb
+C:\Users\lenovo\source\repos\Tuple in c sharp\Tuple in c sharp\obj\Debug\net5.0\Tuple in c sharp.genruntimeconfig.cache
